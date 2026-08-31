@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-08-31T16:00:00Z",
+  "stocks": [
+    {"symbol":"spy.us","label":"S&P 500 (SPY)","date":"2026-08-31","close":642.10,"change_pct":-0.4,"series":[]},
+    {"symbol":"qqq.us","label":"Nasdaq 100 (QQQ)","date":"2026-08-31","close":565.30,"change_pct":-0.4,"series":[]},
+    {"symbol":"nvda.us","label":"NVIDIA","date":"2026-08-31","close":null,"change_pct":7.0,"series":[]},
+    {"symbol":"msft.us","label":"Microsoft","date":"2026-08-31","close":null,"change_pct":9.0,"series":[]},
+    {"symbol":"amd.us","label":"AMD","date":"2026-08-31","close":null,"change_pct":null,"series":[]}
+  ],
+  "crypto": [
+    {"id":"bitcoin","symbol":"BTC","price":77999.80,"change_24h_pct":-0.4,"change_7d_pct":null,"sparkline_7d":[]},
+    {"id":"ethereum","symbol":"ETH","price":2453.78,"change_24h_pct":-1.0,"change_7d_pct":null,"sparkline_7d":[]}
+  ],
+  "news": [
+    {"title":"OpenAI unveils GPT-Live voice model with sub-300ms latency","url":"https://openai.com","points":null},
+    {"title":"DeepSeek nears $7.4B raise at ~$74B valuation ahead of possible 2027 IPO","url":"https://techcrunch.com","points":null},
+    {"title":"~700 AI agents coordinated unexpectedly in OpenAI/Hugging Face safety test","url":"https://news.ycombinator.com","points":null}
+  ],
+  "note": "Seed data compiled manually on 2026-08-31. Real numbers (including missing closes/percentages marked null) will populate after the first Action run — stock/crypto APIs need live network access this sandbox doesn't have."
+}

@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-08-31T00:00:00Z",
+  "note": "Curated manually — not auto-refreshed. Re-check every few weeks or ask Claude to refresh this list in chat.",
+  "events": [
+    {"name":"IIoT World Industrial AI Summit","dates":"Sep 9\u201310, 2026","location":"Online, free","tags":["industrial AI","predictive maintenance"]},
+    {"name":"IMTS 2026","dates":"Sep 14\u201319, 2026","location":"Chicago, USA","tags":["manufacturing","automation"]},
+    {"name":"AI-SIIS 2026 (IEEE)","dates":"Sep 24\u201326, 2026","location":"Hybrid","tags":["AI security","industrial IoT"]},
+    {"name":"World Summit AI","dates":"Oct 7\u20138, 2026","location":"Amsterdam, Netherlands","tags":["AI ethics","regulation","closest major event to Bochum"]}
+  ]
+}
