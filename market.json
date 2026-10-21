@@ -1,20 +1,97 @@
 {
-  "generated_at": "2026-08-31T16:00:00Z",
-  "stocks": [
-    {"symbol":"spy.us","label":"S&P 500 (SPY)","date":"2026-08-31","close":642.10,"change_pct":-0.4,"series":[]},
-    {"symbol":"qqq.us","label":"Nasdaq 100 (QQQ)","date":"2026-08-31","close":565.30,"change_pct":-0.4,"series":[]},
-    {"symbol":"nvda.us","label":"NVIDIA","date":"2026-08-31","close":null,"change_pct":7.0,"series":[]},
-    {"symbol":"msft.us","label":"Microsoft","date":"2026-08-31","close":null,"change_pct":9.0,"series":[]},
-    {"symbol":"amd.us","label":"AMD","date":"2026-08-31","close":null,"change_pct":null,"series":[]}
-  ],
+  "generated_at": "2026-10-21T19:59:18.962Z",
+  "stocks": [],
   "crypto": [
-    {"id":"bitcoin","symbol":"BTC","price":77999.80,"change_24h_pct":-0.4,"change_7d_pct":null,"sparkline_7d":[]},
-    {"id":"ethereum","symbol":"ETH","price":2453.78,"change_24h_pct":-1.0,"change_7d_pct":null,"sparkline_7d":[]}
+    {
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "price": 84474,
+      "change_24h_pct": 2.34357,
+      "change_7d_pct": 3.5214,
+      "sparkline_7d": [
+        81652.94883438993,
+        81575.27722702472,
+        80830.25567449212,
+        80499.83214527325,
+        82336.72255617275,
+        82250.65332790102,
+        82094.30953934434,
+        81975.0124870726,
+        81041.4103158013,
+        81477.06257209188,
+        81528.19246301599,
+        81418.25843272301,
+        81430.77120228177,
+        81467.87123883603,
+        81646.5214822342,
+        81892.40627225803,
+        81123.62792473925,
+        82246.31201531204,
+        82780.88292024551,
+        82517.63411924543,
+        81896.04277099339,
+        81651.17422499254,
+        81744.468510416,
+        81538.70784419197,
+        82469.07056563314,
+        82967.84356844025,
+        82703.50456380872,
+        83410.62644600445
+      ]
+    },
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "price": 2493.98,
+      "change_24h_pct": 2.3677,
+      "change_7d_pct": 2.7867,
+      "sparkline_7d": [
+        2429.6555918201834,
+        2416.6243116155465,
+        2356.3373158608356,
+        2347.999860935177,
+        2449.0541701613374,
+        2438.442860066598,
+        2447.3632961703993,
+        2460.747382959879,
+        2403.213075394044,
+        2420.202017479773,
+        2430.068028119239,
+        2423.7249510602182,
+        2413.8664763046218,
+        2403.651641584081,
+        2409.2222153438065,
+        2415.2919241371915,
+        2365.826476690706,
+        2411.976152525188,
+        2428.8178947717674,
+        2421.3227613342137,
+        2398.90061442575,
+        2399.0638934333906,
+        2396.086789135949,
+        2393.789430147693,
+        2436.258071033273,
+        2451.29056657785,
+        2437.6583409216883,
+        2466.2001233994465
+      ]
+    }
   ],
   "news": [
-    {"title":"OpenAI unveils GPT-Live voice model with sub-300ms latency","url":"https://openai.com","points":null},
-    {"title":"DeepSeek nears $7.4B raise at ~$74B valuation ahead of possible 2027 IPO","url":"https://techcrunch.com","points":null},
-    {"title":"~700 AI agents coordinated unexpectedly in OpenAI/Hugging Face safety test","url":"https://news.ycombinator.com","points":null}
-  ],
-  "note": "Seed data compiled manually on 2026-08-31. Real numbers (including missing closes/percentages marked null) will populate after the first Action run — stock/crypto APIs need live network access this sandbox doesn't have."
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "points": 158
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "points": 102
+    },
+    {
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "points": 89
+    }
+  ]
 }
