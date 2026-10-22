@@ -1,18 +1,14 @@
 {
-  "generated_at": "2026-10-21T19:59:18.962Z",
+  "generated_at": "2026-10-22T19:51:34.502Z",
   "stocks": [],
   "crypto": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 84474,
-      "change_24h_pct": 2.34357,
-      "change_7d_pct": 3.5214,
+      "price": 81317,
+      "change_24h_pct": -3.74617,
+      "change_7d_pct": -1.2529,
       "sparkline_7d": [
-        81652.94883438993,
-        81575.27722702472,
-        80830.25567449212,
-        80499.83214527325,
         82336.72255617275,
         82250.65332790102,
         82094.30953934434,
@@ -36,20 +32,20 @@
         82469.07056563314,
         82967.84356844025,
         82703.50456380872,
-        83410.62644600445
+        83410.62644600445,
+        84350.33674825837,
+        84143.25405365367,
+        82423.20530706977,
+        81625.17210485808
       ]
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2493.98,
-      "change_24h_pct": 2.3677,
-      "change_7d_pct": 2.7867,
+      "price": 2379.91,
+      "change_24h_pct": -4.55641,
+      "change_7d_pct": -2.4445,
       "sparkline_7d": [
-        2429.6555918201834,
-        2416.6243116155465,
-        2356.3373158608356,
-        2347.999860935177,
         2449.0541701613374,
         2438.442860066598,
         2447.3632961703993,
@@ -73,25 +69,29 @@
         2436.258071033273,
         2451.29056657785,
         2437.6583409216883,
-        2466.2001233994465
+        2466.2001233994465,
+        2494.9461073266857,
+        2472.2620272699482,
+        2431.298668449573,
+        2399.076183128174
       ]
     }
   ],
   "news": [
     {
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud/",
-      "points": 158
+      "title": "Nvidia OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "points": 112
     },
     {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "points": 102
+      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+      "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+      "points": 35
     },
     {
-      "title": "Claude Duet",
-      "url": "https://claude.com/product/claude-duet",
-      "points": 89
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "points": 27
     }
   ]
 }
