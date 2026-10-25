@@ -1,18 +1,14 @@
 {
-  "generated_at": "2026-10-24T18:40:33.111Z",
+  "generated_at": "2026-10-25T18:48:55.767Z",
   "stocks": [],
   "crypto": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 80273,
-      "change_24h_pct": -1.4546,
-      "change_7d_pct": -1.177,
+      "price": 80601,
+      "change_24h_pct": 0.37006,
+      "change_7d_pct": -0.302,
       "sparkline_7d": [
-        81295.89681915719,
-        81408.34521320867,
-        81650.31938976333,
-        81968.63755203747,
         81126.88640664746,
         82019.58291286718,
         82673.81251335204,
@@ -36,20 +32,20 @@
         81556.73910833344,
         81102.31316582682,
         80690.40869104964,
-        80516.53573052652
+        80516.53573052652,
+        80198.18414009162,
+        80810.57086775338,
+        80535.26816353998,
+        80505.08914389627
       ]
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2330.03,
-      "change_24h_pct": -3.06196,
-      "change_7d_pct": -3.2943,
+      "price": 2354.04,
+      "change_24h_pct": 0.95819,
+      "change_7d_pct": -0.3102,
       "sparkline_7d": [
-        2409.3312475382827,
-        2400.3079201066294,
-        2408.696436305446,
-        2414.9223679651914,
         2368.027048305976,
         2407.8423723702235,
         2428.7973318472605,
@@ -73,25 +69,29 @@
         2406.6817121361933,
         2384.7498314209515,
         2375.5888195652747,
-        2363.047612686413
+        2363.047612686413,
+        2321.052416668167,
+        2356.5686323389386,
+        2351.0675151205664,
+        2337.850421580048
       ]
     }
   ],
   "news": [
     {
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "points": 214
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "points": 319
     },
     {
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "points": 105
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "points": 110
     },
     {
-      "title": "Neural chip decodes interactions between brain regions",
-      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-      "points": 50
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "points": 65
     }
   ]
 }
