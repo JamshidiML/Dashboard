@@ -1,22 +1,14 @@
 {
-  "generated_at": "2026-10-26T20:56:59.119Z",
+  "generated_at": "2026-10-28T20:52:24.570Z",
   "stocks": [],
   "crypto": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 79756,
-      "change_24h_pct": -0.78416,
-      "change_7d_pct": -2.4459,
+      "price": 81000,
+      "change_24h_pct": 0.42352,
+      "change_7d_pct": -3.4086,
       "sparkline_7d": [
-        81798.62627531706,
-        81724.06852518854,
-        81477.495845447,
-        82037.92222652028,
-        82499.45448212925,
-        82941.39483470951,
-        83063.60247829182,
-        83768.38331148503,
         84448.56794612638,
         83385.06068260739,
         82152.56212846647,
@@ -36,24 +28,24 @@
         80485.73247285892,
         79659.91663337336,
         79966.13292251277,
-        79602.42682586896
+        79602.42682586896,
+        79911.71662738685,
+        79957.5456440582,
+        79706.4916339834,
+        79916.47814087247,
+        80711.13855368076,
+        80845.03890222254,
+        80992.72934027131,
+        80596.23020586945
       ]
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2303.38,
-      "change_24h_pct": -1.73499,
-      "change_7d_pct": -3.5167,
+      "price": 2350.32,
+      "change_24h_pct": 0.40743,
+      "change_7d_pct": -5.0708,
       "sparkline_7d": [
-        2392.55653893482,
-        2397.113081351536,
-        2388.0829043474755,
-        2407.7795625708736,
-        2434.661259432065,
-        2454.3224320983554,
-        2453.9635229684136,
-        2471.817446897186,
         2492.8771532034257,
         2451.2769968309494,
         2427.1995164404684,
@@ -73,25 +65,33 @@
         2348.802617990493,
         2312.3364541696,
         2316.407168810662,
-        2300.88188193125
+        2300.88188193125,
+        2315.33787962578,
+        2319.8651186732736,
+        2311.661278336695,
+        2318.5271463027593,
+        2345.348416615527,
+        2352.2154346261677,
+        2358.2434119485824,
+        2331.8821783539647
       ]
     }
   ],
   "news": [
     {
-      "title": "Anthropic S-1",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "points": 1311
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "points": 596
     },
     {
-      "title": "GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "points": 341
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "points": 357
     },
     {
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "points": 191
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "points": 313
     }
   ]
 }
