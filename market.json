@@ -1,18 +1,14 @@
 {
-  "generated_at": "2026-10-28T20:52:24.570Z",
+  "generated_at": "2026-10-29T20:57:33.083Z",
   "stocks": [],
   "crypto": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 81000,
-      "change_24h_pct": 0.42352,
-      "change_7d_pct": -3.4086,
+      "price": 79014,
+      "change_24h_pct": -2.68626,
+      "change_7d_pct": -0.6105,
       "sparkline_7d": [
-        84448.56794612638,
-        83385.06068260739,
-        82152.56212846647,
-        81674.09152465826,
         81387.14751020947,
         81258.10264850924,
         81485.65375141255,
@@ -36,20 +32,20 @@
         80711.13855368076,
         80845.03890222254,
         80992.72934027131,
-        80596.23020586945
+        80596.23020586945,
+        81515.59824889396,
+        79892.97273239245,
+        79782.36259143811,
+        80230.8435496904
       ]
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2350.32,
-      "change_24h_pct": 0.40743,
-      "change_7d_pct": -5.0708,
+      "price": 2262.71,
+      "change_24h_pct": -4.02171,
+      "change_7d_pct": -2.0042,
       "sparkline_7d": [
-        2492.8771532034257,
-        2451.2769968309494,
-        2427.1995164404684,
-        2409.5095515784583,
         2384.207064873581,
         2389.72021946606,
         2398.5640128601835,
@@ -73,25 +69,29 @@
         2345.348416615527,
         2352.2154346261677,
         2358.2434119485824,
-        2331.8821783539647
+        2331.8821783539647,
+        2369.208439355511,
+        2309.7920921900454,
+        2308.056967541865,
+        2324.8896886165753
       ]
     }
   ],
   "news": [
     {
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "points": 596
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "points": 249
     },
     {
-      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-      "points": 357
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "points": 129
     },
     {
-      "title": "Early progress on accelerating drug development with Claude",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "points": 313
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "points": 117
     }
   ]
 }
