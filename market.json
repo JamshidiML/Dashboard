@@ -1,18 +1,14 @@
 {
-  "generated_at": "2026-10-29T20:57:33.083Z",
+  "generated_at": "2026-10-30T20:36:12.686Z",
   "stocks": [],
   "crypto": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 79014,
-      "change_24h_pct": -2.68626,
-      "change_7d_pct": -0.6105,
+      "price": 76890,
+      "change_24h_pct": -3.85582,
+      "change_7d_pct": -5.5758,
       "sparkline_7d": [
-        81387.14751020947,
-        81258.10264850924,
-        81485.65375141255,
-        81894.44874204097,
         81201.17283989202,
         80857.8510000142,
         80653.6077679316,
@@ -36,20 +32,20 @@
         81515.59824889396,
         79892.97273239245,
         79782.36259143811,
-        80230.8435496904
+        80230.8435496904,
+        80769.03834077435,
+        76666.40658835127,
+        78050.8393387414,
+        76863.431644466
       ]
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2262.71,
-      "change_24h_pct": -4.02171,
-      "change_7d_pct": -2.0042,
+      "price": 2239.02,
+      "change_24h_pct": -2.55569,
+      "change_7d_pct": -6.83,
       "sparkline_7d": [
-        2384.207064873581,
-        2389.72021946606,
-        2398.5640128601835,
-        2411.1945548791086,
         2392.205971022893,
         2379.8772686773646,
         2372.633505011729,
@@ -73,25 +69,29 @@
         2369.208439355511,
         2309.7920921900454,
         2308.056967541865,
-        2324.8896886165753
+        2324.8896886165753,
+        2334.5469310474664,
+        2191.6347924033585,
+        2233.691441344422,
+        2221.58478791543
       ]
     }
   ],
   "news": [
     {
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "points": 249
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "points": 607
     },
     {
-      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
-      "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
-      "points": 129
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "points": 383
     },
     {
-      "title": "Zombie stats: Where the numbers AI quotes come from",
-      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "points": 117
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "points": 173
     }
   ]
 }
