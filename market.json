@@ -1,18 +1,14 @@
 {
-  "generated_at": "2026-11-03T21:37:46.994Z",
+  "generated_at": "2026-11-04T21:46:13.586Z",
   "stocks": [],
   "crypto": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 77866,
-      "change_24h_pct": 1.46801,
-      "change_7d_pct": -3.549,
+      "price": 80169,
+      "change_24h_pct": 2.82573,
+      "change_7d_pct": -1.7712,
       "sparkline_7d": [
-        80686.40025233758,
-        80843.09980552159,
-        81395.91774859169,
-        80505.68661824461,
         81234.80770439783,
         79885.31006128022,
         79978.30893415159,
@@ -36,20 +32,20 @@
         76674.54107365993,
         76636.66890527387,
         76526.70998123777,
-        77271.05904813764
+        77271.05904813764,
+        77789.97043849224,
+        76198.52329200113,
+        78396.70019410863,
+        79225.85953304294
       ]
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2295.12,
-      "change_24h_pct": 1.93624,
-      "change_7d_pct": -2.3464,
+      "price": 2418.76,
+      "change_24h_pct": 5.31722,
+      "change_7d_pct": 2.002,
       "sparkline_7d": [
-        2341.489230384316,
-        2354.4714305840803,
-        2369.276290597451,
-        2330.2595460462903,
         2357.9033744680664,
         2309.027014446919,
         2316.8664581336766,
@@ -73,25 +69,29 @@
         2245.550439136098,
         2249.537160632373,
         2254.0126412656095,
-        2283.5860984751803
+        2283.5860984751803,
+        2288.580091585206,
+        2245.2574807440797,
+        2320.078626259236,
+        2375.3930166807922
       ]
     }
   ],
   "news": [
     {
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "points": 793
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "points": 954
     },
     {
-      "title": "Google will turn off search for schools that reject AI",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "points": 443
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "points": 568
     },
     {
-      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "url": "https://news.ycombinator.com/item?id=50352757",
-      "points": 390
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "points": 556
     }
   ]
 }
