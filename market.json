@@ -1,18 +1,14 @@
 {
-  "generated_at": "2026-11-04T21:46:13.586Z",
+  "generated_at": "2026-11-05T21:50:46.334Z",
   "stocks": [],
   "crypto": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 80169,
-      "change_24h_pct": 2.82573,
-      "change_7d_pct": -1.7712,
+      "price": 75883,
+      "change_24h_pct": -5.31861,
+      "change_7d_pct": -5.8416,
       "sparkline_7d": [
-        81234.80770439783,
-        79885.31006128022,
-        79978.30893415159,
-        81144.77364325951,
         78763.4854689208,
         77229.76850503037,
         77915.24937678593,
@@ -36,20 +32,20 @@
         77789.97043849224,
         76198.52329200113,
         78396.70019410863,
-        79225.85953304294
+        79225.85953304294,
+        80087.1475199352,
+        80514.51864390814,
+        80448.62671865348,
+        78172.4947994866
       ]
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2418.76,
-      "change_24h_pct": 5.31722,
-      "change_7d_pct": 2.002,
+      "price": 2234.44,
+      "change_24h_pct": -7.58007,
+      "change_7d_pct": -3.9542,
       "sparkline_7d": [
-        2357.9033744680664,
-        2309.027014446919,
-        2316.8664581336766,
-        2343.073074179925,
         2256.164411580179,
         2205.58344430372,
         2225.7873288657433,
@@ -73,25 +69,28 @@
         2288.580091585206,
         2245.2574807440797,
         2320.078626259236,
-        2375.3930166807922
+        2375.3930166807922,
+        2419.2479131733053,
+        2427.211633082081,
+        2418.350274939873,
+        2339.871170677634
       ]
     }
   ],
   "news": [
     {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "points": 954
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "points": 244
     },
     {
-      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-      "url": "https://news.ycombinator.com/item?id=50363461",
-      "points": 568
+      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+      "points": 32
     },
     {
-      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-      "points": 556
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs"
     }
   ]
 }
