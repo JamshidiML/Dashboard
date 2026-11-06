@@ -1,18 +1,14 @@
 {
-  "generated_at": "2026-11-05T21:50:46.334Z",
+  "generated_at": "2026-11-06T21:23:44.956Z",
   "stocks": [],
   "crypto": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 75883,
-      "change_24h_pct": -5.31861,
-      "change_7d_pct": -5.8416,
+      "price": 75819,
+      "change_24h_pct": -0.01388,
+      "change_7d_pct": -1.3291,
       "sparkline_7d": [
-        78763.4854689208,
-        77229.76850503037,
-        77915.24937678593,
-        77184.43236547176,
         76839.07753023462,
         77366.93146700393,
         77277.78994685512,
@@ -36,20 +32,20 @@
         80087.1475199352,
         80514.51864390814,
         80448.62671865348,
-        78172.4947994866
+        78172.4947994866,
+        76107.77539298809,
+        76101.16583010495,
+        75597.05918718294,
+        75457.8859219142
       ]
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2234.44,
-      "change_24h_pct": -7.58007,
-      "change_7d_pct": -3.9542,
+      "price": 2228.93,
+      "change_24h_pct": -0.00129,
+      "change_7d_pct": -0.3701,
       "sparkline_7d": [
-        2256.164411580179,
-        2205.58344430372,
-        2225.7873288657433,
-        2235.944548908507,
         2236.990408945583,
         2244.165624311571,
         2239.4728377760184,
@@ -73,24 +69,29 @@
         2419.2479131733053,
         2427.211633082081,
         2418.350274939873,
-        2339.871170677634
+        2339.871170677634,
+        2246.2636803767987,
+        2240.2143862423973,
+        2224.42455604781,
+        2226.2394898591097
       ]
     }
   ],
   "news": [
     {
-      "title": "GPT-6 Astra covertly underperforms on safety research",
-      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-      "points": 244
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "points": 259
     },
     {
-      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-      "points": 32
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "points": 128
     },
     {
-      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-      "url": "https://www.ycombinator.com/companies/bild-ai/jobs"
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "points": 18
     }
   ]
 }
