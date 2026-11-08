@@ -1,18 +1,14 @@
 {
-  "generated_at": "2026-11-07T20:01:49.016Z",
+  "generated_at": "2026-11-08T20:18:45.076Z",
   "stocks": [],
   "crypto": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 75735,
-      "change_24h_pct": -0.11687,
-      "change_7d_pct": -2.3749,
+      "price": 75816,
+      "change_24h_pct": 0.10206,
+      "change_7d_pct": -2.5155,
       "sparkline_7d": [
-        77535.30811551225,
-        77674.23888022012,
-        77945.7548703211,
-        77956.65873169876,
         77731.66451559175,
         78353.65261478913,
         78032.07732408984,
@@ -36,20 +32,20 @@
         75805.87883563981,
         75975.13660087364,
         76028.04468949744,
-        75871.53350204663
+        75871.53350204663,
+        75734.99634787432,
+        75664.7312055239,
+        75884.88195523075,
+        75849.96544821735
       ]
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2233.23,
-      "change_24h_pct": -0.00349,
-      "change_7d_pct": -0.9165,
+      "price": 2226.42,
+      "change_24h_pct": -0.29276,
+      "change_7d_pct": -1.3643,
       "sparkline_7d": [
-        2252.4268809669184,
-        2268.5842127752762,
-        2268.9224887652163,
-        2266.0685781124967,
         2257.0118662479917,
         2288.534526351354,
         2282.643837248514,
@@ -73,15 +69,29 @@
         2233.0368565024614,
         2244.745554350615,
         2243.9520434898855,
-        2243.4463415192968
+        2243.4463415192968,
+        2233.244209135647,
+        2231.7490516204534,
+        2238.5938176581676,
+        2234.189815414129
       ]
     }
   ],
   "news": [
     {
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "url": "https://hunch.net/?p=13764006",
-      "points": 149
+      "title": "Goodbye Claude, hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "points": 619
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "points": 533
+    },
+    {
+      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "points": 256
     }
   ]
 }
