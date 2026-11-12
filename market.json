@@ -1,18 +1,14 @@
 {
-  "generated_at": "2026-11-11T22:33:42.664Z",
+  "generated_at": "2026-11-12T22:09:08.911Z",
   "stocks": [],
   "crypto": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 74263,
-      "change_24h_pct": 0.91294,
-      "change_7d_pct": -7.1535,
+      "price": 71461,
+      "change_24h_pct": -3.94871,
+      "change_7d_pct": -6.0412,
       "sparkline_7d": [
-        80175.1988973403,
-        80488.87660386236,
-        80397.1848829171,
-        75959.96847076336,
         75773.44648627685,
         75810.55922100782,
         76093.33905855268,
@@ -36,20 +32,20 @@
         73805.38858030735,
         73695.34268972892,
         73715.79751018916,
-        73935.35029600436
+        73935.35029600436,
+        74324.68765926987,
+        73723.45795738098,
+        73418.45786146475,
+        71616.68759967582
       ]
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2070.79,
-      "change_24h_pct": 1.12396,
-      "change_7d_pct": -14.4226,
+      "price": 2014.8,
+      "change_24h_pct": -2.65728,
+      "change_7d_pct": -10.2466,
       "sparkline_7d": [
-        2416.4265557200624,
-        2422.7352034305068,
-        2418.3636968980686,
-        2250.4188352640176,
         2227.818030644879,
         2232.726608134444,
         2236.6423064834903,
@@ -73,25 +69,29 @@
         2055.6302587281693,
         2060.6053453119907,
         2056.229234294101,
-        2073.6028627100245
+        2073.6028627100245,
+        2068.996607208816,
+        2052.900979896106,
+        2044.382368370127,
+        2006.5402345827085
       ]
     }
   ],
   "news": [
     {
-      "title": "My AI agents found an unmapped Maya site",
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "points": 890
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "points": 738
     },
     {
-      "title": "Gemini Decisions API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "points": 166
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "points": 387
     },
     {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "points": 128
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "points": 181
     }
   ]
 }
