@@ -1,18 +1,14 @@
 {
-  "generated_at": "2026-11-21T21:31:28.884Z",
+  "generated_at": "2026-11-22T21:38:11.828Z",
   "stocks": [],
   "crypto": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 60369,
-      "change_24h_pct": 3.08237,
-      "change_7d_pct": -8.2014,
+      "price": 60868,
+      "change_24h_pct": 0.90247,
+      "change_7d_pct": -6.2825,
       "sparkline_7d": [
-        64831.88673943902,
-        64899.0306220412,
-        65072.58610697661,
-        64763.99912867202,
         65097.86195002081,
         65138.915046335635,
         64420.58311639449,
@@ -36,20 +32,20 @@
         58299.949609553616,
         58510.27936351066,
         57716.78934999086,
-        60234.788024945396
+        60234.788024945396,
+        60342.19526521905,
+        59384.710574606725,
+        59721.62858376211,
+        60865.10115482507
       ]
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 1685.06,
-      "change_24h_pct": 4.84237,
-      "change_7d_pct": -8.2732,
+      "price": 1720.57,
+      "change_24h_pct": 2.20334,
+      "change_7d_pct": -5.7845,
       "sparkline_7d": [
-        1785.634356536902,
-        1816.3523425779758,
-        1808.315545818241,
-        1807.2781772397032,
         1825.0527204061614,
         1824.1724597457358,
         1804.6093743001354,
@@ -73,15 +69,29 @@
         1599.2191315905063,
         1617.748296862734,
         1625.9988178030449,
-        1687.812563646898
+        1687.812563646898,
+        1683.2858551021084,
+        1668.7161931726534,
+        1684.9059774351922,
+        1711.1637620075373
       ]
     }
   ],
   "news": [
     {
-      "title": "ClawDOS – An AI coding agent for DOS",
-      "url": "http://ricapar.net/ClawDOS/",
-      "points": 150
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "points": 774
+    },
+    {
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "points": 233
+    },
+    {
+      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "points": 67
     }
   ]
 }
