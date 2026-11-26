@@ -1,18 +1,14 @@
 {
-  "generated_at": "2026-11-25T00:29:33.395Z",
+  "generated_at": "2026-11-26T00:04:43.583Z",
   "stocks": [],
   "crypto": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 59500,
-      "change_24h_pct": -2.77599,
-      "change_7d_pct": -7.5988,
+      "price": 60353,
+      "change_24h_pct": 1.01666,
+      "change_7d_pct": -2.8584,
       "sparkline_7d": [
-        64889.41287553966,
-        64611.80281547387,
-        64166.28930137854,
-        63051.11228094392,
         62996.68018190857,
         63291.87215968785,
         63895.737218732225,
@@ -36,20 +32,20 @@
         61227.54737867492,
         60552.033950119774,
         60374.437602806815,
-        60042.95873832969
+        60042.95873832969,
+        59758.920537549915,
+        59083.66459581014,
+        58591.09567547984,
+        59547.643749052615
       ]
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 1670.3,
-      "change_24h_pct": -2.24477,
-      "change_7d_pct": -7.4539,
+      "price": 1690.37,
+      "change_24h_pct": 0.76624,
+      "change_7d_pct": -3.6293,
       "sparkline_7d": [
-        1822.9557525606165,
-        1809.7302343814736,
-        1799.4946277215884,
-        1766.8577002457175,
         1775.10021149601,
         1798.2286458609722,
         1805.8929056617774,
@@ -73,25 +69,24 @@
         1709.3163560355863,
         1703.896663424522,
         1701.4094867094377,
-        1683.8114935290846
+        1683.8114935290846,
+        1677.952425722007,
+        1655.3314259282693,
+        1637.4292601518703,
+        1677.6338170497847
       ]
     }
   ],
   "news": [
     {
-      "title": "LLM agents work for their parent companies, not for you",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "points": 882
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "points": 195
     },
     {
-      "title": "Anthropic breaks below $83 IPO price",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "points": 321
-    },
-    {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "points": 133
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "points": 194
     }
   ]
 }
